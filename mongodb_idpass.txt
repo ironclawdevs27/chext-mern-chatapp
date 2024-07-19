@@ -1,3 +1,0 @@
-aryarasin
-IVnN0EsFEYgEKsEq
-MONGO_DB_URL=mongodb+srv://aryarasin:IVnN0EsFEYgEKsEq@cluster0.d42hm3u.mongodb.net/chext-db?retryWrites=true&w=majority&appName=Cluster0
